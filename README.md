@@ -1,0 +1,2 @@
+# SimpleAdapterImg
+使用SimpleAdapter显示图片
